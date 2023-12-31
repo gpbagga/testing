@@ -1,1 +1,1 @@
-const a = {b: 2}
+const a = {b: 'new main 2'}
